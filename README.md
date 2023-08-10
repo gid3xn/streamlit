@@ -1,12 +1,8 @@
-# 🤖💬 OpenAI Chatbot
+# 🍴 Jeeves.lol
 
 A conversational chatbot built in Python using Streamlit and the OpenAI LLM model GPT 3.5.
 
-## Demo App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://openai-chatbot.streamlit.app/)
-
-## Prerequisite libraries
+## Dependencies
 
 ```
 streamlit
